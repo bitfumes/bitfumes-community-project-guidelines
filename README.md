@@ -30,8 +30,8 @@ TBD
 * Testing
 
 ## repositories
-* Frontend -
-* Backend -
+* Frontend - https://github.com/bitfumes/community-project-frontend.git
+* Backend - https://github.com/bitfumes/community-project-backend.git
 
 ## meta
-* discord discussion - 
+* discord discussion - https://discord.gg/zGJ88z
