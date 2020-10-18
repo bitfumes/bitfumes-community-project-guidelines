@@ -34,4 +34,4 @@ TBD
 * Backend - https://github.com/bitfumes/community-project-backend.git
 
 ## meta
-* discord discussion - https://discord.gg/SmnGdc9
+* discord discussion - https://discord.gg/yERZTCk
